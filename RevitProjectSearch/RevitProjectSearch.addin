@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>RevitProjectSearch</Name>
+		<Assembly>RevitProjectSearch.dll</Assembly>
+		<AddInId>FE61D48F-8C11-41EC-6666-8A1329D20B4D</AddInId>
+		<FullClassName>RevitProjectSearch.App.MainApp</FullClassName>
+		<VendorId>dparam</VendorId>
+		<VendorDescription>dparam</VendorDescription>
+	</AddIn>
+</RevitAddIns>
